@@ -1,0 +1,107 @@
+
+.bg1
+{
+    background-image:url("D:\projectx\newapp\public\1.png");
+    background-repeat: no-repeat;
+    background-size:contain;
+    padding-top: 1px;
+    margin-top: -300px;
+    height:1300px;
+    
+}
+
+.container1
+{
+  background-color:white;
+  border-radius: 10%;
+  height:600px;
+  width:400px;
+  margin-top: 340px;
+  margin-left: 800px;
+  padding: 50px;
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+.head
+{
+  
+  width:590px;
+  font-size: larger;
+  font-weight: bold;
+  margin-left:-100px;
+  padding: 5px;
+ margin-top: -10px;
+  font-family:cursive;
+
+}
+.bt1 {
+  background-color:gold;
+  border: none;
+  margin-top:40px;
+  color:white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+.input-field11
+{
+  width:300px;
+  height:25px;
+  margin: 8px 0;
+  
+}
+.input-field21
+{
+  width:300px;
+  height:25px;
+  margin: 8px 0;
+}
+.input-field31
+{
+  width:300px;
+  height:25px;
+  margin: 8px 0;
+}
+.input-field41
+{
+  width:300px;
+  height:25px;
+  margin: 8px 0;
+}
+.input-field51
+{
+  width:300px;
+  height:25px;
+  margin: 8px 0;
+}
+.field11
+{
+  margin-left:-230px;
+  font-family:cursive;
+}
+.field21
+{
+  margin-left:-230px;
+  font-family:cursive;
+}
+.field31
+{
+  margin-left:-260px;
+  font-family:cursive;
+}
+.field41
+{
+  margin-left:-230px;
+  font-family:cursive;
+}
+.field51
+{
+  margin-left:-180px;
+  font-family:cursive;
+}
+.bb
+{
+    color:black;
+}
