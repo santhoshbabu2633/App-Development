@@ -1,0 +1,446 @@
+.hbg
+{
+    background-color:white;
+    height:1400px;
+    
+}
+.navbar {
+    margin-top: -100px;
+    
+    background-color:rgb(40, 40, 101);
+    font-family: Arial;
+    height: 100px;
+    width: 1700px;;
+    text-align: center;
+     position: fixed;
+  
+  }
+  
+
+  .navbar a {
+    float: left;
+    font-size: 16px;
+    color:black;
+   margin-top: 25PX;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  
+  .dropdown {
+    float: left;
+    overflow: hidden;
+  }
+  
+ 
+  .dropdown .dropbtn {
+    font-size: 16px;
+    border: none;
+    outline: none;
+    
+    color:black;
+    padding: 14px 16px;
+    background-color: inherit;
+    font-family: inherit; 
+    margin-top: 25px;
+  }
+  
+ 
+  .navbar a:hover, .dropdown:hover .dropbtn {
+    background-color:white;
+    height:fit-content;
+  }
+  
+  
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+  }
+  
+ 
+  .dropdown-content a {
+    float: none;
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+  }
+  
+ 
+  .dropdown-content a:hover {
+    background-color: #ddd;
+  }
+  
+
+  .dropdown:hover .dropdown-content {
+    display: block;
+  }
+  .con1
+  {
+ 
+    
+    border-radius: 50%;
+    background-size: cover;
+    background-attachment: fixed;
+    height:300px;
+    width:250px;
+    margin-left:200px;
+    margin-top:50px;
+  }
+  .img1
+  {
+     
+    background-size: cover;
+    background-attachment: fixed;
+    height:300px;
+    border-radius: 50%;
+    width:250px;
+    margin-top:50px;
+   
+   
+  }
+  .con2
+  {
+
+    border-radius: 50%;
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+   height:300px;
+    width:250px;
+    margin-left:600px;
+    margin-top:-300px;
+  
+  }
+  .img2
+  {
+   
+    margin-top:50px;
+    background-size: cover;
+    background-attachment: fixed;
+    border-radius: 50%;
+    height:300px;
+    width:250px;
+   
+  
+  }
+  .con3
+  {
+   
+    border-radius: 50%;
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    height:300px;
+    width:250px;
+    margin-left:1000px;
+    margin-top:-300px;
+
+  }
+  .img3
+  {
+   
+    margin-top:50px;
+    background-size: cover;
+    background-attachment: fixed;
+    border-radius: 50%;
+    height:300px;
+    width:250px;
+   
+
+  }
+
+  .con4
+  {
+   
+    border-radius: 50%;
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    height:300px;
+    width:250px;
+    margin-left:200px;
+    margin-top:90px;
+
+  }
+  .img4
+  {
+    margin-top:50px;
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    height:300px;
+    width:250px;
+    border-radius: 50%;
+
+  }
+
+  .con5
+  {
+
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    height:300px;
+    width:250px;
+    margin-left:600px;
+    margin-top:-300px;
+    border-radius: 50%;
+
+  }
+  .img5
+  {
+    
+    margin-top:50px;
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    height:300px;
+    width:250px;
+    border-radius: 50%;
+    
+  }
+
+  .con6
+  {
+
+
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    height:300px;
+    width:250px;
+    margin-left:1000px;
+    margin-top:-300px;
+    border-radius: 50%;
+    
+
+  }
+  .img6
+  {
+    
+    margin-top:50px;
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    height:300px;
+    width:250px;
+    border-radius: 50%;
+    
+
+  }
+  .con7
+  {
+
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    height:300px;
+    width:250px;
+    margin-left:200px;
+    margin-top:100px;
+    border-radius: 50%;
+
+  }
+  .img7
+  { margin-top:50px;
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    height:300px;
+    width:250px;
+    border-radius: 50%;
+  }
+
+
+  .con8
+  {
+
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    height:300px;
+    width:250px;
+    margin-left:600px;
+    margin-top:-300px;
+    border-radius: 50%;
+
+
+  }
+  .img8
+  {
+    margin-top:50px;
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    height:300px;
+    width:250px;
+    border-radius: 50%;
+  }
+
+  .con9
+  {
+
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    height:300px;
+    width:250px;
+    margin-left:1000px;
+    margin-top:-300px;
+    border-radius: 50%;
+
+  }
+  .img9
+  {
+    margin-top:50px;
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    height:300px;
+    width:250px;
+    border-radius: 50%;
+  }
+  .con1  {
+    
+    transition: 0.5s all ease-in-out;
+}
+  
+.con1:hover{
+    transform: scale(1.1);
+}
+.con2 {
+    
+  transition: 0.5s all ease-in-out;
+}
+
+.con2:hover{
+  transform: scale(1.1);
+}
+.con3 {
+    
+  transition: 0.5s all ease-in-out;
+}
+
+.con3:hover{
+  transform: scale(1.1);
+}
+.con4 {
+    
+    transition: 0.5s all ease-in-out;
+}
+  
+.con4:hover{
+    transform: scale(1.1);
+}
+.con5  {
+    
+    transition: 0.5s all ease-in-out;
+}
+  
+.con5:hover{
+    transform: scale(1.1);
+}
+.con6  {
+    
+    transition: 0.5s all ease-in-out;
+}
+  
+.con6:hover{
+    transform: scale(1.1);
+}
+.con7{
+    
+    transition: 0.5s all ease-in-out;
+}
+  
+.con7:hover{
+    transform: scale(1.1);
+}
+.con8  {
+    
+    transition: 0.5s all ease-in-out;
+}
+  
+.con8:hover{
+    transform: scale(1.1);
+}
+
+.con9 {
+  
+  transition: 0.5s all ease-in-out;
+}
+
+.con9:hover{
+  transform: scale(1.1);
+}
+
+.ol3
+{
+  color:black;
+}
+
+
+
+
+.search-bar input {
+  width: 20%;
+  padding: 10px;
+  border: 1px solid #ccc;
+  background-color:white;
+  border-radius: 5px;
+  font-size: 16px;
+  margin-top: 10px;
+  margin-left:-150px;
+  outline: none;
+  border-color: black;
+}
+.rr 
+{
+  text-align: center;
+  margin-left: 1300px;
+  margin-top: -70px;
+}
+.logo
+{
+  height:30px;
+  margin-top: -10px;
+  margin-left: -200px;
+
+}
+.cr 
+{
+  margin-left: -100px;
+ 
+
+}
+.main
+{
+  height:100px;
+  width:200px;
+  margin-right:500px;
+}
+.search-bar
+{
+  margin-top: 100px;
+
+}
+.ima
+{
+  height:30px;
+  margin:-10px;
+  margin-left: -50px;
+
+}
+.content-container
+{
+  background-color:whitesmoke;
+  
+  height: 1200px;
+  
+}
