@@ -1,0 +1,42 @@
+.data
+{
+    
+    margin-left:550px;
+    margin-top:-550px;
+    width:500px;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    background-color:white;
+   
+}
+.databg
+{
+    height:1000px;
+}
+.imageof
+{
+    margin-left:5px;
+    margin-top:50px;
+    height:300px;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+.per
+{
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    height:550px;
+    width:500px;
+    margin-top:100px;
+    margin-left: 300px;
+}
+.lii
+{
+    height:10%;
+    margin-right:50px;
+    margin-top:-500px;
+}
+.lii2
+{
+    height:10%;
+    margin-right:-30px;
+    margin-top:-500px;
+}
+ 
