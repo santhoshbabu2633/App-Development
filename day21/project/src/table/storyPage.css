@@ -1,0 +1,127 @@
+.story-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+ 
+    
+  }
+  
+  .story-form {
+    width: 50%;
+    margin-bottom: 20px;
+    border: 1px solid white;
+    padding: 20px;
+    border-radius: 5px;
+    background-color: white;
+    font-family: serif;
+  }
+  
+  .story-list {
+    width: 80%;
+    border: 1px solid black;
+    background-color: black;
+    color:white;
+    border-radius: 5px;
+    overflow: auto;
+    font-family: serif;
+  }
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  table, th, td {
+    border: 1px solid black;
+    font-family: serif;
+  }
+  
+  th {
+    padding: 8px;
+    text-align: center;
+    color:black;
+    background-color: black;
+  }
+  td
+  {
+    padding: 8px;
+    text-align: left;
+    color:black;
+    background-color: white;
+
+  }
+  
+  th {
+    background-color: grey;
+  }
+
+  .s.content
+  {
+    width: 150px;
+    background-color: white;
+  }
+.edb
+{
+  background-color:green;
+  border: none;
+
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+  width:70px;
+  color:white;
+  font-family: serif;
+  display: inline-block;
+}
+.ddb
+{
+  background-color:red;
+
+  border: none;
+  width:70px;
+  margin-top:20px;
+  padding: 10px 20px;
+  text-align: center;
+  font-family: serif;
+  text-decoration: none;
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+  color:white;
+  display: inline-block;
+}
+.yei {
+  align-items: center;
+
+    justify-content: center;
+    align-items: center;
+
+
+}
+.edbb
+{
+  background-color:blue;
+  border: none;
+
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+  width:70px;
+  color:white;
+  font-family: serif;
+  display: inline-block;
+}
+.dbside1 
+{
+  margin-top: -20px;
+  height:800px;
+  width:80px;
+  margin-left: -1456px;
+  background-color:black;
+
+  position: fixed;
+}
+.dbside1 a {
+  text-decoration: none;
+}

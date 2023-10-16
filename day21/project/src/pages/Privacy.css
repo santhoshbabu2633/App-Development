@@ -1,0 +1,35 @@
+.cp
+{
+    background-color:white;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    width:1000px;
+    margin-top:50px;
+    margin-left:300px;
+}
+.navbarp {
+    margin-top: -200px;
+    background-color:black;
+    font-family: Arial;
+    height: 100px;
+    width: 1700px;;
+    text-align: center;
+     position: fixed;
+  
+  }
+  
+
+  .navbarp a {
+    float: left;
+    font-size: 16px;
+    font-family:serif;
+    color:white;
+   margin-top: 25PX;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  .h
+  {
+    margin-top:200px;
+    font-weight: bold;
+  }
+  
