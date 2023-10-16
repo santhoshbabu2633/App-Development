@@ -1,0 +1,79 @@
+.bg1a
+{
+  background-image: url("D:\projectx\newapp\public\ok.webp");
+background-color:black;
+background-repeat: no-repeat;
+background-size: contain;
+padding-top:1px;
+height:1300px;
+margin-top:-300px ;
+margin-lesty:200px;
+}
+
+
+
+.containera
+{
+  background-color:white;
+
+
+  width:400px;
+  margin-top: 400px;
+  margin-left: 900px;
+  padding: 50px;
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+.heada
+{
+  
+  width:590px;
+  font-size: larger;
+  font-weight: bold;
+  margin-left:-100px;
+  padding: 5px;
+ 
+  font-family:cursive;
+
+}
+.bta {
+  background-color:white;
+  border: none;
+  margin-top: 50px;
+  
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+.input-fielda
+{
+  width:300px;
+  height:25px;
+  margin: 8px 0;
+  
+}
+.input-field2a
+{
+  width:300px;
+  height:25px;
+  margin: 8px 0;
+}
+.field1a
+{
+  margin-left:-260px;
+  font-family:cursive;
+}
+.field2a
+{
+  margin-left:-230px;
+  font-family:cursive;
+}
+.are{
+  font-family: serif;
+  font-weight: bold;
+  font: larger;
+
+}
+
