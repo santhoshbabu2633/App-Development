@@ -1,0 +1,200 @@
+
+.navbar {
+    margin-top: 0px;
+    background-color:black;
+  
+    font-family: Arial;
+    height: 100px;
+  
+   
+    text-align: center;
+
+   
+     
+  
+  }
+  .oc{
+    background-color:lightgray;
+   margin-top: 50px;
+    width:300px;
+    margin-left:300px;
+   
+    
+
+  }
+  .imo1
+  {
+    margin-left:150px ;
+    margin-top: 170px;
+    height:350px;
+    width:300px;
+  }
+  
+ .wr
+ {
+  font-weight: bolder;
+  font-family: serif;
+  font-size: 80px;
+  margin-left: 600px;
+  margin-top: -500px;
+  color:black;
+ }
+  .navbar a {
+    float: left;
+    font-size: 16px;
+    font-family:serif;
+    color:white;
+     margin-top: 25PX;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  
+  .dropdown {
+    float: left;
+    overflow: hidden;  
+    font-family:cursive;
+    width: 150px; 
+    
+
+  }
+  
+ 
+
+  .navbar a:hover, .dropdown:hover .dropbtn {
+    background-color:black;
+    height:fit-content;
+  }
+  
+  
+
+
+.main
+{
+  height:100px;
+  width:200px;
+  margin-right:500px;
+}
+
+
+
+.logo{
+  margin-top: -80px;
+  margin-left:403px;
+  height:50px;
+}
+.fetch
+{
+  color:silver;
+  font-family: serif;
+  margin-left: 1000px;
+  margin-top: -20px;
+}
+.cred
+{
+  margin-top: -30px;
+
+}
+
+.bg2
+{
+    
+    
+    background-repeat: no-repeat;
+    background-size: contain;
+  
+    height:500px;
+    margin-right:1100px;
+    margin-top:50px ;
+}
+.conte
+{
+  
+  font-family: serif;
+  font-weight: bolder;
+  font-size:25px;
+  color:black;
+  text-align:center;
+  
+  
+  
+ 
+}
+.conten{
+  margin-left:400px;
+  margin-top:-350px;
+  height:200px;
+  width:800px;
+  background-color:white;
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+  
+
+}
+.bg3
+{
+  
+  background-repeat: no-repeat;
+  background-size: contain;
+  height:500px;
+  margin-left:1100px;
+  margin-top:250px ;
+  
+}
+.conten1
+{
+  margin-left:320px;
+  margin-top:-320px;
+  height:200px;
+  width:800px;
+  background-color: white;
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+
+
+}
+.conte1
+{
+  
+  font-family: serif;
+  font-weight: bolder;
+  font-size:25px;
+  color:black;
+ 
+}
+.footer  {
+  bottom:0px;
+  background-color:black;
+  font-family: Arial;
+  height: 20px;
+  width: 1700px;;
+  text-align: center;
+
+  
+
+}
+.pp a
+{
+  color:white;
+  position:fixed;
+  padding: 5px;
+  right:5%;
+  bottom:-5px;
+  text-decoration: none;
+}
+
+.tc a 
+{
+  color:white;
+  position:fixed;
+  padding: 5px;
+  left:5%;
+  bottom:-5px;
+  text-decoration: none;
+}
+.cop
+{
+  color:white;
+  position:fixed;
+  padding: 5px;
+  left:40%;
+  bottom:-5px;
+}
