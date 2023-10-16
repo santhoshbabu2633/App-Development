@@ -1,0 +1,119 @@
+
+.dbside
+{
+    margin-top: -750px;
+   height:900px;
+   width:80px;
+   background-color:black;
+   
+}
+.dbmainc
+{
+    height:700px;
+    width:800px;
+    margin-left:400px;
+    background-color: white;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+
+
+.code
+{
+    margin-top:50px;
+    color:black;
+    font-family: serif;
+}
+.admin
+{
+   margin-top:130px;
+}
+.ho
+{
+    font-family: cursive;
+    color:white;
+  
+}
+.ho a
+{
+    text-decoration: none;
+}
+.dbside a {
+    text-decoration: none;
+  }
+  .hlo{
+    margin-top:50px;
+
+  }
+  .qlo
+  {
+    margin-top:50px;
+
+  }
+  .slo
+  {
+
+    margin-top:50px;
+  }
+  .ulo
+  {
+    margin-top:50px;
+  }
+  .cpr
+  {
+     font-size: 35px;
+     text-align: center;
+     color:red;
+     width:200px;
+     height:200px;
+     box-shadow:0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19); 
+     margin-left: 50px;
+     
+  }
+  .cpr1
+  {
+    
+    font-size: 35px;
+    text-align: center;
+    color:blue;
+    width:200px;
+     height:200px;
+     box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+     margin-left: 300px;
+     margin-top: -200px;
+  }
+  .cpr2
+  {
+    font-size: 35px;
+    text-align: center;
+    color:orange;
+    width:200px;
+     height:200px;
+     box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+     margin-left: 550px;
+     margin-top: -200px;
+  }
+  .ns{
+    
+    font-family:'Times New Roman', Times, serif;
+    color:black;
+    font-weight: bold;
+  
+
+  }
+  .nu
+  {
+    
+    font-family:'Times New Roman', Times, serif;
+    color:black;
+    font-weight: bold;
+  }
+  .nf
+  {
+    font-family:'Times New Roman', Times, serif;
+    color:black;
+    font-weight: bold;
+  }
+  .what
+  {
+    margin-top:30px;
+  }
